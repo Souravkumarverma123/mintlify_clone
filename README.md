@@ -2,7 +2,7 @@
 
 A modern, responsive landing page inspired by Mintlify's design, built with vanilla HTML, CSS, and TypeScript.
 
-![Landing Page Preview](public/screenshot_of_landing_page.png)
+![Landing Page Preview](public/screenshot_of_the_landing_page.png)
 
 ## ✨ Features
 
